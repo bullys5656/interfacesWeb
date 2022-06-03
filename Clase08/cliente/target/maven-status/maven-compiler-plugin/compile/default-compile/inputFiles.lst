@@ -1,0 +1,10 @@
+/home/aula1-docente/Documentos/Interface Grafica/Clase08/cliente/src/main/java/ar/org/centro8/curso/java/repositories/interfaces/I_ClienteRepository.java
+/home/aula1-docente/Documentos/Interface Grafica/Clase08/cliente/src/main/java/ar/org/centro8/curso/java/repositories/jdbc/ClienteRepository.java
+/home/aula1-docente/Documentos/Interface Grafica/Clase08/cliente/src/main/java/ar/org/centro8/curso/java/entities/Cliente.java
+/home/aula1-docente/Documentos/Interface Grafica/Clase08/cliente/src/main/java/ar/org/centro8/curso/java/interfaces/cliente/ServletInitializer.java
+/home/aula1-docente/Documentos/Interface Grafica/Clase08/cliente/src/main/java/ar/org/centro8/curso/java/test/TestRepository.java
+/home/aula1-docente/Documentos/Interface Grafica/Clase08/cliente/src/main/java/ar/org/centro8/curso/java/enums/EstadoCivil.java
+/home/aula1-docente/Documentos/Interface Grafica/Clase08/cliente/src/main/java/ar/org/centro8/curso/java/connectors/Connector.java
+/home/aula1-docente/Documentos/Interface Grafica/Clase08/cliente/src/main/java/ar/com/eduit/curso/java/utils/html/HtmlTable.java
+/home/aula1-docente/Documentos/Interface Grafica/Clase08/cliente/src/main/java/ar/org/centro8/curso/java/interfaces/cliente/ClienteApplication.java
+/home/aula1-docente/Documentos/Interface Grafica/Clase08/cliente/src/main/java/ar/org/centro8/curso/java/test/TestConnection.java
